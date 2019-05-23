@@ -27,7 +27,7 @@ This application works with the following Bluefruit LE devices from Adafruit:
 
 ## License
 
-Unless otherwise specified [MIT license](https://github.com/tcamick/Bluefruit_LE_Connect_Android_v2/blob/master/license.txt).
+Unless otherwise specified [MIT license](https://github.com/tcamick/Bluefruit_LE_Connect_Android_V2/blob/master/LICENSE).
 
 Files produced by Nordic Semiconductors are covered by their own license terms, as detailed in the file headers and appropriate folders. Please carefully review the license requirements before using this source code in your own application.
 
