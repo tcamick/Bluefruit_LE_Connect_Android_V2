@@ -2,6 +2,7 @@
 
 Android app for use with Bluefruit Bluetooth LE modules and dev boards from Adafruit.
 
+Forked from Adafruit [Bluefruit_LE_Connect_Android_V2](https://github.com/adafruit/Bluefruit_LE_Connect_Android_v2)
 
 ## App Versions
 
@@ -26,7 +27,7 @@ This application works with the following Bluefruit LE devices from Adafruit:
 
 ## License
 
-Unless otherwise specified, all files produced by Adafruit are covered by an [MIT license](https://github.com/adafruit/Bluefruit_LE_Connect_Android/blob/master/license.txt).
+Unless otherwise specified [MIT license](https://github.com/tcamick/Bluefruit_LE_Connect_Android_v2/blob/master/license.txt).
 
 Files produced by Nordic Semiconductors are covered by their own license terms, as detailed in the file headers and appropriate folders. Please carefully review the license requirements before using this source code in your own application.
 
